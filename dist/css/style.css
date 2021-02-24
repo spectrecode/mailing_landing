@@ -110,14 +110,14 @@ section .boton{
     padding-bottom: 50px;
 }
 section .boton a{
-    width: 350px;
+    width: 400px;
     display: block;
     text-align: center;
     padding-top: 30px;
     padding-bottom: 30px;
     color: #161B1E;
     text-decoration: none;
-    font-weight: bold;
+    font-family: 'open_sansbold';
     border-radius: 10px;
     margin: auto;
 }
